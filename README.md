@@ -4,7 +4,7 @@
 
 ## The problem
 
-* The presence of YouTube recommendations comments and advertisements hinders users from efficiently engaging in online learning, impeding their ability to access and complete free educational content effectively.
+* The presence of YouTube recommendations comments and advertisements hinders users from efficiently engaging in online learning, impeding their ability to access and complete free educational content effectively...
 
 ## Solution
 
